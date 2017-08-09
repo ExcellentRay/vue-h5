@@ -2,7 +2,7 @@
 
 > vue-H5
 
-## Build Setup
+## 项目模板使用了vue全家桶+vux ui
 
 ``` bash
 # 下载依赖
